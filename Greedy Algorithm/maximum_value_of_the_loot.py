@@ -1,3 +1,10 @@
+'''
+The goal of this code problem is to implement an algorithm for the fractional knapsack problem.
+***Input Format:*** The first line of the input contains the number 𝑛 of items and the capacity 𝑊 of a knapsack.
+The next 𝑛 lines define the values and weights of the items. The 𝑖-th line contains integers 𝑣𝑖 and 𝑤𝑖—the
+value and the weight of 𝑖-th item, respectively.
+'''
+***hello***
 n,total_weight = map(int, input().split())
 total_value = 0
 l = list()
